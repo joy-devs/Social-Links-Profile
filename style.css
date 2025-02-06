@@ -53,5 +53,15 @@ body{
 }
 
 .btn{
-  display: block;  
+  display: block;
+  width: 100%;
+  background-color: gray;  
+  border: none;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 8px;
+  font-size: 1 rem;
+  cursor: pointer;
+  transition: 0.3s;
 }
+.btn
